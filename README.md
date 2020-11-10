@@ -1,7 +1,7 @@
-![ElisaRobot](https://images6.alphacoders.com/716/716156.png)
-# Elisa Robot
+![Thennal](https://telegra.ph/file/dd87602c291e8bf063d4b.jpg)
+# Thennal
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/QueenArzoo/ElisaRobot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DONOFTELEGRAM/Thennal)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
@@ -12,4 +12,4 @@ Alternatively, [find me on telegram](https://t.me/ElisaRobot)! (Keep all support
 You can also join our support group [here!](https://t.me/ShizukaSupport)
 
 # Report error
-Report your problem along with your name to [this person](https://t.me/GarimaQueen)
+Report your problem along with your name to [this person](https://t.me/DON_OF_TELEGRAM)
