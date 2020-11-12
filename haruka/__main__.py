@@ -24,10 +24,10 @@ PM_START = """Hello {}, my name is {}! if you have any questions about how to us
 
 I'm a group manager bot maintained by @GarimaQueen.
 
-Add me to a group by [clicking here](http://t.me/ElisaRobot?startgroup=true).
+Add me to a group by [clicking here](http://t.me/Angelena?startgroup=true).
 
 🚨 Anti Ripping Organization 🚨
-You can join Fed or Subscribe to remove Rippers from your Groups [here](t.me/AntiRippingOrganization)
+You can join Fed or Subscribe to remove Rippers from your Groups [here](t.me/HYPER_u)
 
 """
 
